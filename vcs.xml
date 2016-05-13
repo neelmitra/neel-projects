@@ -10,8 +10,16 @@
           <option name="url" value="https://github.com/neelmitra/neel-projects" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/neelmitra/gobot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mehranhzh/ATTHackathon.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/GoExamples/src/github.com/neelmitra" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/" />
   </component>
 </application>
